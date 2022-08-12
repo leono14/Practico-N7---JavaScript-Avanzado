@@ -1,0 +1,13 @@
+Con tus propias palabras completa las siguientes preguntas:
+
+- Pilas(Stacks)
+
+- Queue(colas)
+
+- enqueue
+
+- dequeue
+
+- sets
+
+- Explica por lo menos 3 instancias de los sets.
