@@ -1,13 +1,17 @@
 Con tus propias palabras completa las siguientes preguntas:
 
 - Pilas(Stacks)
+Son listas ordenadas en las que se puede almacenar y luego recuperar datos. Sacamos primero el último dato ingresado porque es el que está más arriba. 
 
 - Queue(colas)
+Una cola es una estructura de datos compuesta por una serie de elementos donde insertamos datos al final y los vamos recuperando desde el principio, a diferencia de las pilas.
 
 - enqueue
+Agrega un elemento a la cola.
 
 - dequeue
+Retira el primer elemento de la cola.
 
 - sets
+El tipo de variable set permite almacenar varios valores bajo una sola variable, pero cada valor sólo se almacena una vez. Estos valores son únicos de cualquier tipo.
 
-- Explica por lo menos 3 instancias de los sets.
